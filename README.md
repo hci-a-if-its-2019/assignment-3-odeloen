@@ -9,7 +9,7 @@
 > Present the ideal case on how to interact with the prototype from the beginning to the end.
 > Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
 
-[![Prototype Video](https://www.youtube.com/upload_thumbnail?v=WSCIenbEGVM&t=hqdefault&ts=1556746428571)](https://youtu.be/WSCIenbEGVM)
+[![Prototype Video](/images/hci-assignment-3-home-iklan.png)](https://youtu.be/WSCIenbEGVM)
 
 ---
 

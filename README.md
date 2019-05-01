@@ -182,15 +182,14 @@ R membuka salah satu portalnya
 > based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
 
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
-
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+#### Sketch for Observation 1
+![Sketch of Refined Prototype](/images/hci-assignment-3-sketch-repositioning-ads-space.png)
+#### Sketch for Observation 2
+![Sketch of Refined Prototype](/images/hci-assignment-3-sketch-redesign-download-card.png)
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+1. The advertisement in observation 1 have been repositioned so that the user can differentiate articles and ads
+2. Using symbols to indicate the download button to tell the user easier
 
 ### High-Fidelity Interactive-Prototype
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.

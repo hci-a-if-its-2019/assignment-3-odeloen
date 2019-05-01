@@ -54,50 +54,128 @@
 > Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+ ```text
+ 1. F : Hai. Kita ketemu lagi untuk membantu tugas saya
+2. A : Hari ini kita ngapain?
+3. F : Masih ingat sama website yang dulu pernah ku kasih? ilmukomputer.com?
+4. A : Oala yang itu. Masih kok. Web yang depannya kita gatau bisa diklik itukan?
+5. F : Wkwk. Iya. Nah dulukan kamu langsung coba di webnya, sekarang aku udah mencoba memperbaiki webnya berdasarkan komentar komentar mu yang dulu
 
+F membuka aplikasi dan menunjukkannya kepada A
+
+6. F : Ini contoh yang aku buat. Tapi ini cuma contoh, jadi ga semuanya bisa diklik
+7. A : Okay. Ini sama kayak yang dulu?
+8. F : Iya. Jadi aku kasih beberapa perintah, kamu ngejalanin aja sesuai dengan perintahnya
+9. A : Ok
+10. F : Siap ya. Perintah pertama, coba buka artikel
+11. A : Hmm. Halaman awalnya udah lebih bagus sih. Udah ketauan yang bisa diklik yang mana
+12. F : Okok. Coba buka artikelnya
+13. A : Udah. Perasaan ku aja semuanya keliatan besar sekali ya
+14. F : Kebesaran ta?
+15. A : Kebesaran sih kalo menurutku. Tapi ya gapapa, makin kelihatan
+16. F : Coba buka salah satu artikel dari kategori adsense dan bisnis
+17. A : Hmm. Ga ada tombol backnya ya
+18. F : Ga ada. Kan aslinya ini web
+19. A : Ok, udah bisa balik terus cari kategori ya?
+20. F : Yup
+21. A : Ini bener ta? Kok tulisannya sama aja?
+22. F : Udah bener kok, cuma emang aku belum ngubah tulisannya sesuai aslinya
+23. A : Ooh
+24. F : Coba download lampiran dari artikelnya
+25. A : Ini tombol download bukan ya? Soalnya tulisannya download
+26. F : Ooh. Masih kurang jelas ya berarti?
+27. A : Iya
+28. F : Okok nanti ku perbaiki lagi. Lanjut, coba register
+29. A : Wah. Ini udah dikasih keatas gini ya
+30. F : Wkwkwk. Gimana udah?
+31. A : Ini udah apa belum?
+32. F : Ooh. Udah kok, sekarang coba pake fitur pencariannya buat nyari artikel jarkom
+33. A : Gini bener?
+34. F : Bener kok. Ok udah semua
+35. A : Lah udah semua?
+36. F : Iya. Udah. Makasih ya
+```
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+ ```text
+1. F : Hi. Pertama-tama aku mengucapkan terima kasih udah mau nyoba sebuah aplikasi yang belum jadi atau bisa disebut prototipe untuk tugas kuliah ku
+2. R : Hi. Nyoba aplikasi apa?
+3. F : Namanya ilmukomputer.com sebuah web sharing artikel, jadi kemarin aku udah mengadakan wawancara semacam ini juga. Dan akhirnya aku membuat sebuah prototipe atas dasar wawancara tersebut
+4. R : Ooh. Emang nyoba nya gimana?
+5. F : Jadi bakal ada beberapa perintah dari aku ke kamu yang berhubungan dengan web itu. Tapi ga semua tombolnya berfungsi.
+6. R : Ok
+7. F : Dan disini kamu boleh berkomentar apapun tentang prototipenya. 
+8. R : Ok
+9. F : Gimana kalo kita langsung mulai aja?
 
+F membuka prototipe dan menunjukkannya kepada R
+
+10. F : Ok. Yang pertama, coba buka sebuah artikel yang ada di web itu
+11. R : Artikel apa?
+12. F : Terserah aja
+13. R : Ini web nya emang gini tampilannya?
+14. F : Iya. Itu baru portal
+15. R : Ooh
+
+R membuka salah satu portalnya
+
+16. R : Ini iklan?
+17. F : Iya. Kenapa?
+18. R : Engga, besar banget dan mengubah fokus sekali ya
+19. F : Mengganggu ya?
+20. R : Engga sih. Takutnya kalo udah jadi, para penggunanya malah salah pencet karena dikira artikel. Kan kalo sekarang tulisannya masih iklan tapi kalo udah jadi kan rada susah membedakannya
+21. F : Ooh. Ok
+22. R : Ini bener ga?
+23. F : Udah bener kok
+24. R : Perasaanku aja apa emang ini rada besar ya tulisannya
+25. F : Kebesaran ya?
+26. R : Kebesaran sih menurutku.
+27. F : Ok, ada lagi ga kekurangannya?
+28. R : Bagian siapa penulisnya sih rada kurang. Kan kasian kalo mereka nulis artikel tapi ga keliatan siapa yang nulis
+29. F : Ok. Ku catat ya. Ada lagi?
+30. R : Udah Engga
+31. F : Kalo gitu kita pindah ke perintah selanjutnya ya. Coba buka sebuah artikel dari kategori adsense dan bisnis.
+32. R : Ok
+33. R : Ini udah bener? Kok tulisannya masih sama
+34. F : Udah kok. Ada kesulitan?
+35. R : Ada sih, kesulitan baca kotak yang tulisannya kategori karena terlalu mepet dengan kotaknya
+36. F : Ok. Ada lagi?
+37. R : Ga ada sih, cuma bingung karena tulisannya sama.
+38. F : Coba download lampirannya artikel itu
+39. R : Ini udah?
+40. F : Udah kok, gimana?
+41. R : Pencetannya kayak ga bisa di pencet.
+42. F : Ok. Ada lagi?
+43. R : Udah ga ada
+44. F : Kita lanjut lagi ke register
+45. R : Ini bener? Kok sama aja
+46. F : Bener kok. Selanjutnya, coba cari artikel dengan kata jarkom
+47. R : Ini kok ga bisa dipencet ya?
+48. F : Hmm. Langsung pencet cari aja
+49. R : Ok. Udah
+50. F : Udah itu aja perintahnya dari aku
+51. R : Udah kelar?
+52. F : Udah kok. Makasih ya
+```
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+![Prototype Screen 1](/images/hci-assignment-3-home-iklan.png)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+ - **Reference**: Participant 2 : 16 - 20
+ - **Feedback**: The ads size is too big
+ - **Incidence**: Confusing the user because they cannot differentiate between an article and an ads
+ - **Reason**: The positioning is misplaced
+ - **Resolution**: Reposition the ads space
  
 #### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+![Prototype Screen 2](/images/hci-assignment-3-article-download.png)
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
- 
-#### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
-
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
- ... and so on ...
- 
- ---
+ - **Reference**: Participant 1 : 25 - 27
+ - **Feedback**: Lacks of indicator
+ - **Incidence**: Confused because of the lacks of indicator
+ - **Reason**: There is no clear indicator that indicate that is a button
+ - **Resolution**: Adding more visible indicator to the button
 
 ## Part B: Prototyping (again)
 > Next, you will need to modify your prototype 

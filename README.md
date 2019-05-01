@@ -9,7 +9,7 @@
 > Present the ideal case on how to interact with the prototype from the beginning to the end.
 > Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
 
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/WSCIenbEGVM)
+[![Prototype Video](https://www.youtube.com/upload_thumbnail?v=WSCIenbEGVM&t=hqdefault&ts=1556746428571)](https://youtu.be/WSCIenbEGVM)
 
 ---
 
@@ -183,9 +183,9 @@ R membuka salah satu portalnya
 
 ### Sketch
 #### Sketch for Observation 1
-![Sketch of Refined Prototype](/images/hci-assignment-3-sketch-repositioning-ads-space.png)
+![Sketch of Refined Prototype](/images/hci-assignment-3-sketch-repositioning-ads-space.jpg)
 #### Sketch for Observation 2
-![Sketch of Refined Prototype](/images/hci-assignment-3-sketch-redesign-download-card.png)
+![Sketch of Refined Prototype](/images/hci-assignment-3-sketch-redesign-download-card.jpg)
 
 ### Design Rationale
 1. The advertisement in observation 1 have been repositioned so that the user can differentiate articles and ads

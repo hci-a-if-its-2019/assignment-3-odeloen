@@ -192,5 +192,4 @@ R membuka salah satu portalnya
 2. Using symbols to indicate the download button to tell the user easier
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+> https://xd.adobe.com/view/24c0d3e7-213b-4352-4d3b-bbe180e6be2a-52f1/  

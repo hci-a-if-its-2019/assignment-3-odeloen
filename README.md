@@ -8,7 +8,7 @@
 > Record a video (screen-recording is preferred) while you operating your prototype.
 > Present the ideal case on how to interact with the prototype from the beginning to the end.
 > Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
-
+#### Video :
 [![Prototype Video](/images/hci-assignment-3-home-iklan.png)](https://youtu.be/WSCIenbEGVM)
 
 ---
